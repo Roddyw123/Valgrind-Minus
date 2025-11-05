@@ -2,7 +2,7 @@
 
 
 Valgrind-Minus is a library that:
-- Intercepts all malloc calls in an application and outputs after each malloc call the number of bytes allocated so far by the program on the stream stderr (malloc_interept.c)
+- Intercepts all malloc calls in an application and outputs after each malloc call the number of bytes allocated so far by the program on the stream stderr (malloc_intercept.c)
 - TBA
 
 
