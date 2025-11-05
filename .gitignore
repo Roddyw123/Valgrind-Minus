@@ -1,0 +1,18 @@
+# Generated shared libraries
+*.so
+*.dylib
+
+# LLVM bitcode files
+*.bc
+*.ll
+
+# Compiled object files
+*.o
+
+# Executables
+a.out
+test_malloc
+test_malloc_linked
+
+# Test programs
+program
